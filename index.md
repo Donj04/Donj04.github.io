@@ -27,3 +27,5 @@ My GitHub page is http://github.com/Donj04.
     I enjoyed Lab 12, part 2 because I was able to create my own GIFs. It
     taught me about how GIFs work and how to make them. I also learned how to
     make random noise with colors to make a colorful background.
+
+![The GIF from Lab 12](images/message.gif)
